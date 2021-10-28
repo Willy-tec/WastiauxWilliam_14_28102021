@@ -1,0 +1,12 @@
+{
+  "name": "wastiauxwilliam_14_28102021",
+  "version": "1.0.0",
+  "description": "Welcome to HRnet! This is our company's internal application to create and view employee records.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "willytec <willytect@gmail.com>",
+  "license": "ISC"
+}
